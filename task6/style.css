@@ -1,4 +1,4 @@
-.form__input {
+input {
     display: block;
     background: unset;
     border: 2px solid #000000;
@@ -11,7 +11,7 @@
     width: 100px;
     transition: border-color 400ms ease;
 }
-.form__input:focus {
+input:focus {
     outline: none;
     border-color: #00e1ff;
 }
